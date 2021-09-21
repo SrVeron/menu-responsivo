@@ -1,0 +1,32 @@
+.logo{
+    width: 150px;
+}
+
+.centrado{
+    text-align: center;
+}
+
+.separador{
+    padding-top: 50px;
+}
+
+.icono{
+    width: 130px;
+}
+
+.fab{
+    font-size: 40px;
+    margin-left: 10px;
+
+}
+
+footer{
+    background: #f3f2f0;
+    padding: 50px 0 50px 0;
+    margin-top: 50px;
+}
+
+.nota{
+    font-size: 1rem;
+    opacity: 0.8;
+}
